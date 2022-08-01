@@ -29,6 +29,10 @@
     line-height: 3;
 }
 
+.footer__text{
+    color: var(--background-blanco);
+    text-align: center;
+}
 
 .footer__enlace {
     display: inline-block;
