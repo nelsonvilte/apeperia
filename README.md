@@ -1,3 +1,3 @@
 # Proyecto Apeperia
 
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Desarrollo web front enda para el proyecto "Apeperia" del curso "Layouts Responsivos: Trabajando con layouts mobile", de la formación Oracle + Alura LATAM.
